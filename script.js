@@ -44,21 +44,21 @@ const projectsData = [
     image: "project-1.png",
     description: "Implement interactive project cards to summarize key details, team assignees and progress status at a glance, allowing users to track project health without leaving the main dashboard view.",
     demoLink: "#",
-    githubLink: "#"
+    githubLink: "https://github.com/Ashley-tracy/Portfolio"
   },
   {
     title: "Project Y",
     image: "project-2.png",
     description: "Features responsive design, secure authentication and an intuitive drag-and-drop dashboard to improve workflow efficiency and daily productivity.",
     demoLink: "#",
-    githubLink: "#"
+    githubLink: "https://github.com/Ashley-tracy/Portfolio"
   },
   {
     title: "Project Z",
     image: "Project-3.png",
     description: "Delivered an interactive dashboard and automated content publishing flow that improved team collaboration and user engagement.",
     demoLink: "#",
-    githubLink: "#"
+    githubLink: "https://github.com/Ashley-tracy/Portfolio"
   }
 ];
 
