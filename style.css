@@ -46,6 +46,7 @@ li a{
     position: relative;
     color: white;
     font-weight: 300;
+    cursor: pointer;
 }
 
 li a ::before{
@@ -167,7 +168,7 @@ justify-content: center;
     margin-bottom: 3rem;
 }
 
-.experience-info{
+.skills-info{
      display: flex;
      align-items: center;
      justify-content: center;
