@@ -123,7 +123,7 @@ justify-content: center;
 }
 .info-box h1{
     font-size: 4rem;
-    font-weight: 400;
+    font-weight: 500;
 }
 .info-box span{
   background: linear-gradient(to right,rgb(255,0,255), rgb(0,157,255));
