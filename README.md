@@ -13,3 +13,6 @@
 * CSS – Custom styles, CSS Grid, and Flexbox
 * JavaScript (ES6+)– Dynamic rendering and DOM manipulation
 * Git & GitHub Pages – Version control and live deployment
+##How to run it locally
+git clone  https://github.com/Ashley-tracy/Portfolio.git
+cd Portfolio
